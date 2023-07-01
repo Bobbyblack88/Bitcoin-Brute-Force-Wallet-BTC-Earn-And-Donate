@@ -2,7 +2,7 @@
 name = "Bitcoin-Brute-Force-Wallet-BTC-Earn-And-Donate"
 version = "0.1.0"
 description = ""
-authors = ["Donate: 1mRae8XtcbfHth9R7WFn5EytBT3UiZUAR <<>>"]
+authors = ["Donate:<<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
